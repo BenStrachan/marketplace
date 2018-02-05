@@ -1,0 +1,28 @@
+/* line 2, /Users/benstrachan/sites/marketplace/app/assets/stylesheets/admins/custom.scss */
+.form-group .file {
+  display: block;
+}
+/* line 6, /Users/benstrachan/sites/marketplace/app/assets/stylesheets/admins/custom.scss */
+.form-group.has-error .form-control {
+  border-color: #dc3545;
+}
+/* line 9, /Users/benstrachan/sites/marketplace/app/assets/stylesheets/admins/custom.scss */
+.form-group.has-error label, .form-group.has-error .help-block {
+  color: #dc3545;
+}
+
+/* line 15, /Users/benstrachan/sites/marketplace/app/assets/stylesheets/admins/custom.scss */
+.avatar-med {
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+/* line 22, /Users/benstrachan/sites/marketplace/app/assets/stylesheets/admins/custom.scss */
+.avatar-large {
+  width: 64px;
+  height: 64px;
+  display: inline-block;
+  border-radius: 5px;
+}
